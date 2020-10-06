@@ -1,4 +1,4 @@
-# Face Detection Machine Learning
+# Hybrid Image + Visualizing Optical Flow
 
 ## Background
 
